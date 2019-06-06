@@ -1,5 +1,5 @@
 {
-  "name": "papertrail-logger",
+  "name": "@kiper-technology/papertrail-logger",
   "version": "1.0.0",
   "description": "project created to configurate papertrail logger",
   "main": "src/index.js",
