@@ -1,0 +1,32 @@
+{
+  "name": "papertrail-logger",
+  "version": "1.0.0",
+  "description": "project created to configurate papertrail logger",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "eslint": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiper-technology/papertrail-logger.git"
+  },
+  "keywords": [
+    "papertrail"
+  ],
+  "author": "kiper technology",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiper-technology/papertrail-logger/issues"
+  },
+  "homepage": "https://github.com/kiper-technology/papertrail-logger#readme",
+  "dependencies": {
+    "winston": "^3.2.1",
+    "winston-syslog": "^2.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.17.3"
+  }
+}
