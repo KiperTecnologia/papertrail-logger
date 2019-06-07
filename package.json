@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kiper-technology/papertrail-logger.git"
+    "url": "git+https://github.com/KiperTecnologia/papertrail-logger.git"
   },
   "keywords": [
     "papertrail"
@@ -17,9 +17,9 @@
   "author": "kiper technology",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kiper-technology/papertrail-logger/issues"
+    "url": "https://github.com/KiperTecnologia/papertrail-logger/issues"
   },
-  "homepage": "https://github.com/kiper-technology/papertrail-logger#readme",
+  "homepage": "https://github.com/KiperTecnologia/papertrail-logger#readme",
   "dependencies": {
     "winston": "^3.2.1",
     "winston-syslog": "^2.1.0"
